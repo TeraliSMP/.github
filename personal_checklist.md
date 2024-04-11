@@ -5,7 +5,10 @@
 
 # To do
 ## Server optimization
-**- Re-adjust vanilla tweaks datapacks and add them to this list**
+- **Re-adjust vanilla tweaks datapacks and add them to this list**
+- Checkout Phillip's ruin mod instead of datapack
+- Use [qraftyfield](https://modrinth.com/datapack/qraftyfied) instead of qrafty japanese villages
+- No more structure mods for now, focusing on features/QoL
 ## Fix
 - 
 -
@@ -43,13 +46,13 @@ Name | Type | Compatibility | Server test | Description | Note
 [Camps. Castles. Carriages.](https://modrinth.com/datapack/camps_castles_carriages) | Structures | ✅ | ✅ | Fairy-tale style structures
 [Underground Villages](https://modrinth.com/mod/underground-villages) | Structures | ✅ | ✅ | Add underground villages
 [Underground Bunkers](https://modrinth.com/mod/underground-bunkers) | Structures | ✅ | ✅ | Add underground bunkers
-[Lios Overhauled Villages](https://modrinth.com/mod/lios-overhauled-villages) | Structures |  |  | Village transformation
+[Lios Overhauled Villages](https://modrinth.com/mod/lios-overhauled-villages) | Structures | ✅ | ✅ | Village transformation
 [Katters Structures](https://modrinth.com/datapack/katters-structures) | Structures | ✅ | ✅ | New vanilla structures
-[Discoveria](https://modrinth.com/datapack/discoveria) | Structures |  |  | Another structures mod | Need locate
-[STRAYED FATES: Forsaken](https://modrinth.com/datapack/strayed-fates-forsaken) | Structures | ❓ | ❓ | Abandoned structures |Can't locate
-[Hopo Better Mineshaft](https://modrinth.com/datapack/better-mineshaft) | Structures |  |  | Better mineshafts | Need locate
-[Abandoned](https://modrinth.com/mod/abandoned) | Structures |  |  | Abandoned house dungeons | Need locate
-[qrafty's Japanese Villages](https://modrinth.com/datapack/qraftys-japanese-villages) | Structures |  |  | Japanese villages | Need locate
+[Discoveria](https://modrinth.com/datapack/discoveria) | Structures | ✅ | ✅ | Another structures mod
+[STRAYED FATES: Forsaken](https://modrinth.com/datapack/strayed-fates-forsaken) | Structures | ✅ | ✅ | Abandoned structures
+[Hopo Better Mineshaft](https://modrinth.com/datapack/better-mineshaft) | Structures | ✅ | ✅ | Better mineshafts
+[Abandoned](https://modrinth.com/mod/abandoned) | Structures | ✅ | ✅ | Abandoned house dungeons
+[qrafty's Japanese Villages](https://modrinth.com/datapack/qraftys-japanese-villages) | Structures | ✅ | ✅ | Japanese villages | `Considering qraftyfield`
 [Just Another Structure Pack](https://modrinth.com/datapack/just-another-structure-pack) | Structures | ✅ | ✅ | Another structures mod 
 
 ## Datapacks
