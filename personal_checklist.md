@@ -1,20 +1,24 @@
+# Guides
+- [Server-sided mods](https://serverside.infra.link/)
+- [Server optimization](https://github.com/YouHaveTrouble/minecraft-optimization)
+- [Optifine alternatives (client)](https://optifine.alternatives.lambdaurora.dev/)
+
 # To do
 ## Server optimization
-- ✅ [Auto Sleep](https://youtu.be/WqvQISpr6-s?si=dr70Olu1BBYB51UB)
-- ✅ [Textile Backup](https://modrinth.com/mod/textile_backup)
-- [DarkTimer](https://modrinth.com/mod/darktimer)
-
+**- Re-adjust vanilla tweaks datapacks and add them to this list**
 ## Fix
 - 
 -
 -
 
 # World generation
-
 ## Mods
 Name | Type | Compatibility | Server test | Description | Note
 --- | --- | :-: | :-: | --- | ---
+[Sparse Structures](https://modrinth.com/mod/sparsestructures) | Utility | ✅ | ✅ | Space out structures
 [Terralith](https://modrinth.com/mod/terralith) | Terrain | ✅ | ✅ | Main terrain generation mod |
+[Incendium](https://www.planetminecraft.com/data-pack/incendium-nether-expansion/) | Terrain | ✅ | ✅ | New nether terrain |
+[Nullscape](https://www.planetminecraft.com/data-pack/nullscape/) | Terrain | ✅ | ✅ | New end terrain |
 [YUNG's Better...](https://modrinth.com/user/YUNGNICKYOUNG) | Structures | ✅ | ✅ | Replaces vanilla structures(?)
 [YUNG's Bridges](https://modrinth.com/mod/yungs-bridges) | Structures |  |  | Add bridges through rivers |Bridges don't seem to spawn 
 [Towns and Towers](https://modrinth.com/mod/towns-and-towers) | Structures | ✅ | ✅ | Add new villages |
@@ -27,20 +31,26 @@ Name | Type | Compatibility | Server test | Description | Note
 [Structory: Towers](https://www.curseforge.com/minecraft/mc-mods/structory-towers) | Structures | ✅ | ✅ | Structory with towers |
 [Unnamed Deserts](https://www.curseforge.com/minecraft/mc-mods/unnamed-deserts) | Structures | ✅ | ✅ | Add desert structures |
 [Moonlit Monoliths](https://modrinth.com/datapack/moonlit-monoliths) | Structures | ✅ | ✅ | Massive stones channel the moon's power |
-[ATi Structures Mod]
-[AdoraBuild: Structures]
-[Wabi-Sabi Structures]
-[Explorify]
-[Hopo Better Underwater Ruins]
-[Formations Nether]
-[Formations Overworld]
-[Sparse Structures]
-[Medieval Buildings]
-[Medieval Buildings [End Edition]]
-[Camps. Castles. Carriages.]
-[Underground Villages]
-[Underground Bunkers]
-[Lios Overhauled Villages]
+[ATi Structures Mod](https://modrinth.com/datapack/ati-structures-fabricforge) | Structures | ✅ | ✅ | Custom vanilla dungeons
+[AdoraBuild: Structures](https://modrinth.com/mod/adorabuild-structures) | Structures | ✅ | ✅ | 85 new structures
+[Wabi-Sabi Structures](https://www.curseforge.com/minecraft/mc-mods/wabi-sabi-structures-fabric) | Structures | ✅ | ✅ | New Wabi Sabi structures
+[Explorify](https://modrinth.com/datapack/explorify) | Structures | ✅ | ✅ | New dungeonds and structures
+[Hopo Better Underwater Ruins](https://modrinth.com/datapack/better-underwater-ruins) | Structures | ✅ | ✅ | New ocean ruin
+[Formations Nether](https://modrinth.com/mod/formations-nether) | Structures | ✅ | ✅ | New nether structures
+[Formations Overworld](https://modrinth.com/mod/formations-overworld) | Structures | ✅ | ✅ | New overworld structures
+[Medieval Buildings](https://modrinth.com/mod/medieval-buildings) | Structures | ✅ | ✅ | Add medieval buildings
+[Medieval Buildings [End Edition]](https://modrinth.com/mod/medieval-buildings-end-edition) | Structures | ✅ | ✅ | Add the end medieval buildings
+[Camps. Castles. Carriages.](https://modrinth.com/datapack/camps_castles_carriages) | Structures | ✅ | ✅ | Fairy-tale style structures
+[Underground Villages](https://modrinth.com/mod/underground-villages) | Structures | ✅ | ✅ | Add underground villages
+[Underground Bunkers](https://modrinth.com/mod/underground-bunkers) | Structures | ✅ | ✅ | Add underground bunkers
+[Lios Overhauled Villages](https://modrinth.com/mod/lios-overhauled-villages) | Structures |  |  | Village transformation
+[Katters Structures](https://modrinth.com/datapack/katters-structures) | Structures | ✅ | ✅ | New vanilla structures
+[Discoveria](https://modrinth.com/datapack/discoveria) | Structures |  |  | Another structures mod | Need locate
+[STRAYED FATES: Forsaken](https://modrinth.com/datapack/strayed-fates-forsaken) | Structures | ❓ | ❓ | Abandoned structures |Can't locate
+[Hopo Better Mineshaft](https://modrinth.com/datapack/better-mineshaft) | Structures |  |  | Better mineshafts | Need locate
+[Abandoned](https://modrinth.com/mod/abandoned) | Structures |  |  | Abandoned house dungeons | Need locate
+[qrafty's Japanese Villages](https://modrinth.com/datapack/qraftys-japanese-villages) | Structures |  |  | Japanese villages | Need locate
+[Just Another Structure Pack](https://modrinth.com/datapack/just-another-structure-pack) | Structures | ✅ | ✅ | Another structures mod 
 
 ## Datapacks
 Name | Type | Compatibility | Server test | Description | Note
@@ -48,33 +58,41 @@ Name | Type | Compatibility | Server test | Description | Note
 [Miles Playz New Structures](https://www.milesplayz.com/category/datapacks/) | Structures | ✅ | ✅ | Spawn new structures | 9 (Previously 10) datapacks
 `Exception` [Miles Playz New Shipwrecks](https://www.milesplayz.com/new-shipwrecks/) | Structures | ❌ | ✅ | Spawn new structures(Shipwrecks) | Placement crash, incompatible with Terralith as of right now 
 [Structory](https://www.planetminecraft.com/data-pack/structory/) | Structures | ✅ | ✅ | Light structures |
-[Nullscape](https://www.planetminecraft.com/data-pack/nullscape/) | Terrain | ✅ | ✅ | New end terrain |
-[Incendium](https://www.planetminecraft.com/data-pack/incendium-nether-expansion/) | Terrain | ✅ | ✅ | New nether terrain |
 [Philips Ruins](https://modrinth.com/mod/philips-ruins) | Structures | ✅ | ✅ | Add ancient ruins | 
 [Lost Libraries](https://modrinth.com/datapack/lost-libraries) | Structures | ✅ | ✅ | Underground libraries | 
 
-# Gameplay tweaks/QoL
+# Gameplay tweaks
 `Type`
 `📁 Datapack`
 `⚙️ Mod`
-
 Name | Type | Test | Description | Note
 --- | :-: | :-: | --- | ---
-[Escape from the Void with Totem of Undying](https://www.planetminecraft.com/data-pack/escape-from-the-void-with-totem-of-undying/) | 📁 | ✅ | As the title | 
+[Escape from the Void with Totem of Undying](https://www.planetminecraft.com/data-pack/escape-from-the-void-with-totem-of-undying/) | 📁 | 🗑️ | As the title | Removed due to not needing totem to revive
 [Villagers Names](https://modrinth.com/mod/villager-names) | ⚙️ |✅ | Add names to villagers | 
-[Hat command](https://modrinth.com/mod/hat-command) | ⚙️ | ✅ | Add hat commands | 
 [Monsters in the Closet](https://modrinth.com/mod/monsters-in-the-closet) | ⚙️ | ✅ | Temporary highlights hostile mobs that cause you unable to sleep | 
 [Horse Buff](https://modrinth.com/mod/horsebuff/version/2.1.3) | ⚙️| ✅ | QOL tweaks for horses | 
-[TreeCapitator](https://www.planetminecraft.com/data-pack/treecapitator-datapack-1-13/) | 📁 | ✅ | Quick tree chopping
-[WITS](https://modrinth.com/mod/wits) | ⚙️ | ✅ | Use /wits to see which structure you are standing on
+[TreeCapitator](https://www.planetminecraft.com/data-pack/treecapitator-datapack-1-13/) | 📁 | ✅ | Quick tree chopping | Only works with certain tree shape
 [Blossom Blade](https://modrinth.com/datapack/blossom-blade) | ⚙️ | ✅ | Swords can be found in cherry biome
 [Survival Friendly Spectator](https://www.planetminecraft.com/data-pack/smp-friendly-spectator/) | 📁 | ✅ | Native spectator mode
-[SkinRestorer](https://modrinth.com/mod/skinrestorer) | ⚙️ | ❓ | Skin menu | <ul><li>Cause loading terrain on client everytime you change the skin</li><li>Sometimes cause player to show Steve skin instead (suspecting Essential skin)</li><li>Temporary fix is to reconnect to the server</li></ul>
-[Discord Integration](https://modrinth.com/plugin/dcintegration) | ⚙️ | ✅ | Discord Integration
 [Just Player Heads](https://modrinth.com/mod/just-player-heads) | ⚙️ | ✅ | Allow obtaining head | `Could use this only for head dropping`
-[Head Index](https://modrinth.com/mod/headindex) | ⚙️ | ✅ | Head datapbase from https://minecraft-heads.com/ | `Need currency discussion`
-[Leashable Players](https://modrinth.com/mod/leashable-players) | ⚙️ |  | Make players leashable
+[Leashable Players](https://modrinth.com/mod/leashable-players) | ⚙️ | ✅ | Make players leashable
+[HyperLeash](https://modrinth.com/datapack/hyperleash) | ⚙️ | ✅❔ | Leash with firework and more leashing capabilities | `Couldn't use Leashed nametags or leash other mobs`
+[True Ending: Ender Dragon Overhaul](https://modrinth.com/datapack/true-ending) | ⚙️ | ✅ | New ender dragon fight
 
+# Features/QoL
+`Type`
+`📁 Datapack`
+`⚙️ Mod`
+Name | Type | Test | Description | Note
+--- | :-: | :-: | --- | ---
+[Hat command](https://modrinth.com/mod/hat-command) | ⚙️ | ✅ | Add hat commands | 
+[WITS](https://modrinth.com/mod/wits) | ⚙️ | ✅ | Use /wits to see which structure you are standing on
+[Survival Friendly Spectator](https://www.planetminecraft.com/data-pack/smp-friendly-spectator/) | 📁 | ✅ | Spectator mode for survival
+[SkinRestorer](https://modrinth.com/mod/skinrestorer) | ⚙️ | ✅❔ | Skin changer | <ul><li>Cause loading terrain on client everytime you change the skin</li><li>Sometimes cause player to show Steve skin instead (suspecting Essential skin)</li><li>Temporary fix is to reconnect to the server</li></ul>
+[Head Index](https://modrinth.com/mod/headindex) | ⚙️ | ✅ | Head datapbase from https://minecraft-heads.com/ | 3 irons for 1 head
+[Vanilla Refresh](https://modrinth.com/datapack/vanilla-refresh) | ⚙️ | ✅❔ | 30+ QoL | Default settings, need more configurations
+[Banner Flags](https://modrinth.com/datapack/banner-flags) | ⚙️ | ✅ | Make banner hang horizontally
+[Banner Bedsheets](https://modrinth.com/datapack/banner-bedsheets) | ⚙️ | ✅ | Use banner as bedsheet
 
 # Server back-end
 Name | Test | Description | Note
@@ -94,3 +112,5 @@ Name | Test | Description | Note
 [Dynmap](https://www.curseforge.com/minecraft/mc-mods/dynmapforge) | ❓ | Web map | Still testing
 [Textile Backup](https://modrinth.com/mod/textile_backup) | ✅ | Automatic world backup
 [TimeOutOut](https://modrinth.com/mod/timeoutout) | ✅ | Configure connection timeouts from client to server
+[DarkTimer](https://modrinth.com/mod/darktimer) | ✅ | Auto clear dropped items
+[Discord Integration](https://modrinth.com/plugin/dcintegration) | ✅ | Discord Integration
