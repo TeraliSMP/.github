@@ -5,12 +5,11 @@
 
 # To do
 ## Server optimization
-- **Re-adjust vanilla tweaks datapacks and add them to this list**
-- Checkout Phillip's ruin mod instead of datapack
-- Use [qraftyfield](https://modrinth.com/datapack/qraftyfied) instead of qrafty japanese villages
 - No more structure mods for now, focusing on features/QoL
+- Make fences sitable
+- LuckPerms
 ## Fix
-- 
+-
 -
 -
 
@@ -52,7 +51,7 @@ Name | Type | Compatibility | Server test | Description | Note
 [STRAYED FATES: Forsaken](https://modrinth.com/datapack/strayed-fates-forsaken) | Structures | ✅ | ✅ | Abandoned structures
 [Hopo Better Mineshaft](https://modrinth.com/datapack/better-mineshaft) | Structures | ✅ | ✅ | Better mineshafts
 [Abandoned](https://modrinth.com/mod/abandoned) | Structures | ✅ | ✅ | Abandoned house dungeons
-[qrafty's Japanese Villages](https://modrinth.com/datapack/qraftys-japanese-villages) | Structures | ✅ | ✅ | Japanese villages | `Considering qraftyfield`
+[qraftyfied](https://modrinth.com/datapack/qraftyfied) | Structures | ✅ |  | Japanese villages and more | Replaced qrafty villages
 [Just Another Structure Pack](https://modrinth.com/datapack/just-another-structure-pack) | Structures | ✅ | ✅ | Another structures mod 
 
 ## Datapacks
@@ -68,6 +67,16 @@ Name | Type | Compatibility | Server test | Description | Note
 `Type`
 `📁 Datapack`
 `⚙️ Mod`
+## [Vanilla tweaks datapacks](https://vanillatweaks.net/picker/datapacks/)
+Name | Type | Test | Description | Note
+--- | :-: | :-: | --- | ---
+More Mob Heads | 📁 | ✅ | Random chance to drop mob's head
+Fast leaf decay | 📁 | ✅ | Tree's leaves decay fast
+Armored Elytra | 📁 | ❓ | Combine elytra with armor | Still not working
+Anti Enderman Grief | 📁 | ✅ | Endermen can't pick up blocks
+Anti Ghast Grief | 📁 | ✅ | Ghasts can't blow up blocks
+Graves | 📁 | ✅ | Make a grave when dying and put all items inside
+## Others
 Name | Type | Test | Description | Note
 --- | :-: | :-: | --- | ---
 [Escape from the Void with Totem of Undying](https://www.planetminecraft.com/data-pack/escape-from-the-void-with-totem-of-undying/) | 📁 | 🗑️ | As the title | Removed due to not needing totem to revive
@@ -81,11 +90,22 @@ Name | Type | Test | Description | Note
 [Leashable Players](https://modrinth.com/mod/leashable-players) | ⚙️ | ✅ | Make players leashable
 [HyperLeash](https://modrinth.com/datapack/hyperleash) | ⚙️ | ✅❔ | Leash with firework and more leashing capabilities | `Couldn't use Leashed nametags or leash other mobs`
 [True Ending: Ender Dragon Overhaul](https://modrinth.com/datapack/true-ending) | ⚙️ | ✅ | New ender dragon fight
+[Spellbound Weapons](https://modrinth.com/datapack/spellbound-weapons) | ⚙️ |  | New weapons | [Wiki for weapons list and usage](https://github.com/SpluoSplatus/Spellbound-Weapons/wiki/#pages)
 
 # Features/QoL
 `Type`
 `📁 Datapack`
 `⚙️ Mod`
+## [Vanilla tweaks datapacks](https://vanillatweaks.net/picker/datapacks/)
+Name | Type | Test | Description | Note
+--- | :-: | :-: | --- | ---
+Nether Portal Coords | 📁 | ✅ | Convert coords in nether to overworld and vice versa
+Silence Mobs | 📁 | ✅ | Convert coords in nether to overworld and vice versa
+Durability Ping | 📁 | ✅ | Announce player when tools' durability is low
+Unlock All Recipes | 📁 | ✅ | Unlock all recipes upon joining world
+Villager Death Messages | 📁 | ✅ | Announce villager's death
+Custom nether portals | 📁 | ✅ | Custom nether portal's shape
+
 Name | Type | Test | Description | Note
 --- | :-: | :-: | --- | ---
 [Hat command](https://modrinth.com/mod/hat-command) | ⚙️ | ✅ | Add hat commands | 
@@ -94,8 +114,10 @@ Name | Type | Test | Description | Note
 [SkinRestorer](https://modrinth.com/mod/skinrestorer) | ⚙️ | ✅❔ | Skin changer | <ul><li>Cause loading terrain on client everytime you change the skin</li><li>Sometimes cause player to show Steve skin instead (suspecting Essential skin)</li><li>Temporary fix is to reconnect to the server</li></ul>
 [Head Index](https://modrinth.com/mod/headindex) | ⚙️ | ✅ | Head datapbase from https://minecraft-heads.com/ | 3 irons for 1 head
 [Vanilla Refresh](https://modrinth.com/datapack/vanilla-refresh) | ⚙️ | ✅❔ | 30+ QoL | Default settings, need more configurations
+[Sit!](https://modrinth.com/mod/sit!) | ⚙️ | ✅ | Sit | Need add support for fences
 [Banner Flags](https://modrinth.com/datapack/banner-flags) | ⚙️ | ✅ | Make banner hang horizontally
 [Banner Bedsheets](https://modrinth.com/datapack/banner-bedsheets) | ⚙️ | ✅ | Use banner as bedsheet
+[AfkPlus](https://modrinth.com/mod/afkplus) | ⚙️ | ✅ | AFK features
 
 # Server back-end
 Name | Test | Description | Note
@@ -112,7 +134,7 @@ Name | Test | Description | Note
 [MiniMOTD](https://modrinth.com/plugin/minimotd) | ✅ | Custom MOTD
 [Restart Server](https://modrinth.com/mod/restart-server) | ❌ | Server restart using command | Crash
 [JourneyMap](https://modrinth.com/mod/journeymap) | ✅ | Server-sided JourneyMap 
-[Dynmap](https://www.curseforge.com/minecraft/mc-mods/dynmapforge) | ❓ | Web map | Still testing
+[Dynmap](https://www.curseforge.com/minecraft/mc-mods/dynmapforge) | 🔳 | Web map | Don't feel like using
 [Textile Backup](https://modrinth.com/mod/textile_backup) | ✅ | Automatic world backup
 [TimeOutOut](https://modrinth.com/mod/timeoutout) | ✅ | Configure connection timeouts from client to server
 [DarkTimer](https://modrinth.com/mod/darktimer) | ✅ | Auto clear dropped items
