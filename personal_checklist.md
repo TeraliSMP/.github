@@ -90,7 +90,8 @@ Name | Type | Test | Description | Note
 [Leashable Players](https://modrinth.com/mod/leashable-players) | ⚙️ | ✅ | Make players leashable
 [HyperLeash](https://modrinth.com/datapack/hyperleash) | ⚙️ | ✅❔ | Leash with firework and more leashing capabilities | `Couldn't use Leashed nametags or leash other mobs`
 [True Ending: Ender Dragon Overhaul](https://modrinth.com/datapack/true-ending) | ⚙️ | ✅ | New ender dragon fight
-[Spellbound Weapons](https://modrinth.com/datapack/spellbound-weapons) | ⚙️ |  | New weapons | [Wiki for weapons list and usage](https://github.com/SpluoSplatus/Spellbound-Weapons/wiki/#pages)
+[Spellbound Weapons](https://modrinth.com/datapack/spellbound-weapons) | ⚙️ | ✅ | New weapons | [Wiki for weapons list and usage](https://github.com/SpluoSplatus/Spellbound-Weapons/wiki/#pages)
+[Creepers Don't Destroy! (But Still Deal Damage!)](https://www.planetminecraft.com/data-pack/creepers-don-t-destroy-but-still-deal-damage/) | 📁 | ✅ | Creepers don't blow up blocks
 
 # Features/QoL
 `Type`
@@ -139,3 +140,5 @@ Name | Test | Description | Note
 [TimeOutOut](https://modrinth.com/mod/timeoutout) | ✅ | Configure connection timeouts from client to server
 [DarkTimer](https://modrinth.com/mod/darktimer) | ✅ | Auto clear dropped items
 [Discord Integration](https://modrinth.com/plugin/dcintegration) | ✅ | Discord Integration
+[LuckPerms](https://modrinth.com/mod/luckperms) | ✅ | Permission mod
+[Vanilla Permissions](https://modrinth.com/mod/vanilla-permissions) | ✅ | Permission checks for LuckPerms
