@@ -4,13 +4,8 @@
 - [Optifine alternatives (client)](https://optifine.alternatives.lambdaurora.dev/)
 
 # To do
-## Server optimization
 - No more structure mods for now, focusing on features/QoL
-- Make fences sitable
 - LuckPerms
-## Fix
--
--
 -
 
 # World generation
