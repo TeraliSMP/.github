@@ -6,7 +6,11 @@
 # To do
 - No more structure mods for now, focusing on features/QoL
 - LuckPerms
--
+    - Default: No permissions
+    - Freedoom: Freedoom members (allow /titles, etc)
+    - Admin: me of course
+- Reformat bot messages
+- ***VIẾT DOC ĐI LÀM ƠN!!!!***
 
 # World generation
 ## Mods
@@ -65,9 +69,8 @@ Name | Type | Compatibility | Server test | Description | Note
 ## [Vanilla tweaks datapacks](https://vanillatweaks.net/picker/datapacks/)
 Name | Type | Test | Description | Note
 --- | :-: | :-: | --- | ---
-More Mob Heads | 📁 | ✅ | Random chance to drop mob's head
 Fast leaf decay | 📁 | ✅ | Tree's leaves decay fast
-Armored Elytra | 📁 | ❓ | Combine elytra with armor | Still not working
+Armored Elytra | 📁 | ✅ | Combine elytra with armor
 Anti Enderman Grief | 📁 | ✅ | Endermen can't pick up blocks
 Anti Ghast Grief | 📁 | ✅ | Ghasts can't blow up blocks
 Graves | 📁 | ✅ | Make a grave when dying and put all items inside
@@ -81,12 +84,15 @@ Name | Type | Test | Description | Note
 [TreeCapitator](https://www.planetminecraft.com/data-pack/treecapitator-datapack-1-13/) | 📁 | ✅ | Quick tree chopping | Only works with certain tree shape
 [Blossom Blade](https://modrinth.com/datapack/blossom-blade) | ⚙️ | ✅ | Swords can be found in cherry biome
 [Survival Friendly Spectator](https://www.planetminecraft.com/data-pack/smp-friendly-spectator/) | 📁 | ✅ | Native spectator mode
-[Just Player Heads](https://modrinth.com/mod/just-player-heads) | ⚙️ | ✅ | Allow obtaining head | `Could use this only for head dropping`
+[Just Player Heads](https://modrinth.com/mod/just-player-heads) | ⚙️ | ✅ | Allow dropping player head when killed
+[Just Mob Heads](https://modrinth.com/mod/just-mob-heads) | ⚙️ |  | Allow dropping mobs' head when killed
 [Leashable Players](https://modrinth.com/mod/leashable-players) | ⚙️ | ✅ | Make players leashable
 [HyperLeash](https://modrinth.com/datapack/hyperleash) | ⚙️ | ✅❔ | Leash with firework and more leashing capabilities | `Couldn't use Leashed nametags or leash other mobs`
 [True Ending: Ender Dragon Overhaul](https://modrinth.com/datapack/true-ending) | ⚙️ | ✅ | New ender dragon fight
 [Spellbound Weapons](https://modrinth.com/datapack/spellbound-weapons) | ⚙️ | ✅ | New weapons | [Wiki for weapons list and usage](https://github.com/SpluoSplatus/Spellbound-Weapons/wiki/#pages)
 [Creepers Don't Destroy! (But Still Deal Damage!)](https://www.planetminecraft.com/data-pack/creepers-don-t-destroy-but-still-deal-damage/) | 📁 | ✅ | Creepers don't blow up blocks
+[Fast Minecart](https://modrinth.com/mod/fast-minecart) | ⚙️ | ✅ | Minecart is twice as fast
+[Mob Captains](https://modrinth.com/datapack/mob-captains) | 📁 | ✅ | Captains mobs will be spawn
 
 # Features/QoL
 `Type`
