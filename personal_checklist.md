@@ -102,9 +102,9 @@ Name | Type | Test | Description | Note
 Name | Type | Test | Description | Note
 --- | :-: | :-: | --- | ---
 Nether Portal Coords | 📁 | ✅ | Convert coords in nether to overworld and vice versa
-Silence Mobs | 📁 | ✅ | Convert coords in nether to overworld and vice versa
+Silence Mobs | 📁 | ✅ | Put a name tag `silence me` on mob to silence mob
 Durability Ping | 📁 | ✅ | Announce player when tools' durability is low
-Unlock All Recipes | 📁 | ✅ | Unlock all recipes upon joining world
+Unlock All Recipes | 📁 | ✅ | Unlock all recipes upon first joining world
 Villager Death Messages | 📁 | ✅ | Announce villager's death
 Custom nether portals | 📁 | ✅ | Custom nether portal's shape
 
