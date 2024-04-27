@@ -4,11 +4,6 @@
 - [Optifine alternatives (client)](https://optifine.alternatives.lambdaurora.dev/)
 
 # To do
-- No more structure mods for now, focusing on features/QoL
-- LuckPerms
-    - Default: No permissions
-    - Freedoom: Freedoom members (allow /titles, etc)
-    - Admin: me of course
 - Reformat bot messages
 - ***VIẾT DOC ĐI LÀM ƠN!!!!***
 
@@ -90,9 +85,12 @@ Name | Type | Test | Description | Note
 [HyperLeash](https://modrinth.com/datapack/hyperleash) | ⚙️ | ✅❔ | Leash with firework and more leashing capabilities | `Couldn't use Leashed nametags or leash other mobs`
 [True Ending: Ender Dragon Overhaul](https://modrinth.com/datapack/true-ending) | ⚙️ | ✅ | New ender dragon fight
 [Spellbound Weapons](https://modrinth.com/datapack/spellbound-weapons) | ⚙️ | ✅ | New weapons | [Wiki for weapons list and usage](https://github.com/SpluoSplatus/Spellbound-Weapons/wiki/#pages)
-[Creepers Don't Destroy! (But Still Deal Damage!)](https://www.planetminecraft.com/data-pack/creepers-don-t-destroy-but-still-deal-damage/) | 📁 | ✅ | Creepers don't blow up blocks
+[Creepers Don't Destroy! (But Still Deal Damage!)](https://www.planetminecraft.com/data-pack/creepers-don-t-destroy-but-still-deal-damage/) | 📁 | ❌ | Creepers don't blow up blocks
 [Fast Minecart](https://modrinth.com/mod/fast-minecart) | ⚙️ | ✅ | Minecart is twice as fast
 [Mob Captains](https://modrinth.com/datapack/mob-captains) | 📁 | ✅ | Captains mobs will be spawn
+[Environmental Creepers](https://modrinth.com/mod/environmental-creepers) | ⚙️ | ✅ | Creeper tweaks
+[Inventory Totem](https://modrinth.com/mod/inventory-totem) | ⚙️ | ✅ | Totems work without being on hand
+[Do a Barrel Roll](https://modrinth.com/mod/do-a-barrel-roll) | ⚙️ | ✅ | Camera movement and disable kinetic damages
 
 # Features/QoL
 `Type`

@@ -1,2 +1,2 @@
 # <span style="color:DarkSeaGreen"><b>TeraliSMP @</b><span> `terali.ddns.net`
-<a href="https://stackoverflow.com/questions/75964216/github-how-to-change-font-size-in-markdown-file"><span style="font-size:26pt;">Click to go to the wiki</span></href>
+<a href="https://github.com/TeraliSMP/.github/wiki"><span style="font-size:26pt;">Click to go to the wiki</span></href>
