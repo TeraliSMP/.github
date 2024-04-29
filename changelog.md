@@ -1,4 +1,7 @@
 # Change Log
+## [1.0.2-a] - 29/04/2024
+- Server is back at running on 8GB of RAM
+
 ## [1.0.2] - 28/04/2024
 - Creepers no longer destroy blocks but still deal damage
     - Regular creepers' damage: 3 -> 4.5 (1.5x)
